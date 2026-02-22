@@ -1,7 +1,7 @@
 # Proyecto de Termodinámica – Sistema de Medición de Temperatura
 
-## Profesor 
-Yonathan Armando Loredo Sáenz
+## Profesor: Yonathan Armando Loredo Sáenz
+
 | ID                 | Name                               |
 | ------------------ | -----------------------------------| 
 |  A00843568         | Leonardo Sánchez Alegre            |
