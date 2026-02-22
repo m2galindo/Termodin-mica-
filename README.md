@@ -1,1 +1,1 @@
-# Termodin-mica-
+# Termodinámica-
