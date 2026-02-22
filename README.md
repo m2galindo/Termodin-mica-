@@ -96,7 +96,7 @@ El sistema:
 - Escucha continuamente los datos del Arduino  
 - Grafica la temperatura en tiempo real  
 - Guarda automáticamente las mediciones en un archivo CSV  
-- ⏱️ Registra datos durante 12 horas (144 mediciones)
+- Registra datos durante 12 horas (144 mediciones)
 
 ---
 
