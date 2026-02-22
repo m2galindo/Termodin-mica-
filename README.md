@@ -1,4 +1,11 @@
 # Proyecto de Termodinámica – Sistema de Medición de Temperatura
+| ID                 | Name                               |
+| ------------------ | -----------------------------------| 
+|  A00843568         | Leonardo Sánchez Alegre            |
+|  A00845424         | Axel Daniel Vázquez Montoya        |
+|  A00845476         |	Jesús Rojas Martínez              |
+|  A00845929         |  Luis Diego Chapa Santos           |
+|  A00845553         |  Marco Alejandro Galindo de la Cruz| 
 
 Este proyecto contiene el sistema de medición y registro de temperatura utilizado en nuestro experimento de hielera.
 
