@@ -30,7 +30,7 @@ Incluye:
 
 #  Estructura del Proyecto
 
-Termodinamica/
+Termodinamica /
 │
 ├── src/
 │   └── main.cpp        # Código del Arduino

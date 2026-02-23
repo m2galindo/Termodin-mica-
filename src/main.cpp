@@ -7,7 +7,7 @@
 OneWire oneWire(ONE_WIRE_BUS);
 DallasTemperature sensors(&oneWire);
 
-unsigned long intervalo = 1000; // 1 segundo
+unsigned long intervalo = 300000; // 5 minutos
 unsigned long tiempoAnterior = 0;
 
 void setup() {
